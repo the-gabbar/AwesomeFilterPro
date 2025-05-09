@@ -62,7 +62,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴇɴᴅᴇʀ {ғʀᴇᴇ}</summary>
 <p>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/TamilanBotsZ/AwesomeFilterPro">
+<a href="https://render.com/deploy?repo=https://github.com/the-gabbar/AwesomeFilterPro">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="deploy-to-render">
   </a>
   </p>
